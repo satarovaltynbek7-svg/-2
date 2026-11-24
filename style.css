@@ -1,0 +1,13 @@
+.boxes{
+    border: 2px solid red;
+    display: grid;
+    /* grid-template-columns: 200px 200px 200px ; */
+    /* grid-template-columns: repeat(3,1f); */
+    gap: 20px;
+    /* grid-template-rows: 100px 200px; */
+    /* justify-content: center; */
+    align-content: center;
+}
+.box{
+    border: 2px solid blue;
+}
